@@ -20,7 +20,7 @@ A full-stack web application built for **venue owners and users** to manage and 
 ## 📁 Project Structure
 
 ```bash
-satyajeet-23-easyvenue/
+easyvenue/
 ├── Backend/                    # Java Spring Boot, JPA/Hibernate
 │   ├── pom.xml
 │   └── src/
