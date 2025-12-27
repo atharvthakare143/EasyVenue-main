@@ -336,10 +336,3 @@ npm run preview
 - Configured ESLint for code quality and consistency
 - Implemented proper error boundaries and loading states
 
-## 👨💻 Author
-
-**Satyajeet** - *Full-stack Java Developer*
-
-Built with modern Java Spring Boot Backend and React Frontend, focusing on clean architecture, maintainable code, and industry best practices.
-
-*This project demonstrates modern full-stack development practices with Java Spring Boot and React, featuring clean separation of concerns, RESTful API design, responsive user interface, and scalable architecture suitable for production deployment.*
